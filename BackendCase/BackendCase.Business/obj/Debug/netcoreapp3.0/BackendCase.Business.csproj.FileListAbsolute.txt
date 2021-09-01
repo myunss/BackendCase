@@ -1,0 +1,13 @@
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.Business.deps.json
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.Business.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.Business.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.Entities.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.Entities.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.AssemblyInfo.cs
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.csproj.CopyComplete
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\obj\Debug\netcoreapp3.0\BackendCase.Business.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Business\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.pdb

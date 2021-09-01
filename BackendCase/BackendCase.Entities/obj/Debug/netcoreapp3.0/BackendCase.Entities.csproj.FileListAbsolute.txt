@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\bin\Debug\netcoreapp3.0\BackendCase.Entities.deps.json
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\bin\Debug\netcoreapp3.0\BackendCase.Entities.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\bin\Debug\netcoreapp3.0\BackendCase.Entities.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\obj\Debug\netcoreapp3.0\BackendCase.Entities.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\obj\Debug\netcoreapp3.0\BackendCase.Entities.AssemblyInfo.cs
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\obj\Debug\netcoreapp3.0\BackendCase.Entities.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.Entities\obj\Debug\netcoreapp3.0\BackendCase.Entities.pdb

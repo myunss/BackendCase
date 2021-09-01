@@ -1,0 +1,13 @@
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.deps.json
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.AssemblyInfo.cs
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.runtimeconfig.json
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.DataAccess.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.Entities.dll
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\bin\Debug\netcoreapp3.0\BackendCase.Entities.pdb
+C:\Users\yunus\source\repos\BackendCase\BackendCase.DataAccess\obj\Debug\netcoreapp3.0\BackendCase.DataAccess.csproj.CopyComplete
